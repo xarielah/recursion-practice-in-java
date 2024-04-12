@@ -1,3 +1,6 @@
+/**
+ * @see https://kef-code.vercel.app/courses/intro-to-computer-science/recursion/maxPath
+ */
 public class MaxPath {
     public static void main(String[] args) {
         int[][] mat = {
